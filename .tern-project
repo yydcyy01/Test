@@ -1,0 +1,23 @@
+{
+  "plugins": {
+    "guess-types": {
+      
+    },
+    "outline": {
+      
+    },
+    "angular1": {
+      
+    },
+    "cordovajs": {
+      
+    },
+    "angular": {
+      
+    }
+  },
+  "libs": [
+    "ecma5",
+    "browser"
+  ]
+}
